@@ -1,6 +1,6 @@
 <div align="center">
      <h1>Awesome IP Search Engines</h1>
-     <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/awesome-ip-search-engines"> 
+     <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/awesome-ip-search-engines">
      <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/awesome-ip-search-engines"> <br>
      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcipher387%2Fawesome-ip-search-engines&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
      <br>
@@ -24,13 +24,13 @@
   - [Guides/documentations](#guidesdocumentations)
 
   - [Books](#books)
- 
+
   - [Videos](#videos)
- 
+
   - [Articles](#articles)
 
   - ["Dorks"/queries Lists](#dorksqueries-lists)
- 
+
   - [Cheat sheets](#cheat-sheets)
 
   - [Competions](#competions)
@@ -66,13 +66,13 @@
 
  - [Default Credentials Automation Tools](#default-credentials-automation-tools)
 
- - [C2 search tools](#c2-search-tools ) 
+ - [C2 search tools](#c2-search-tools )
 
- - [Monitoring tools](#monitoring-tools) 
+ - [Monitoring tools](#monitoring-tools)
 
- - [URL fingerprinting tools](#url-fingerprinting-tools) 
+ - [URL fingerprinting tools](#url-fingerprinting-tools)
 
- - [VNC Screenshots Automation](#vnc-screenshots-automation) 
+ - [VNC Screenshots Automation](#vnc-screenshots-automation)
 
  - [Browser Extensions](#browser-extensions)
 
@@ -134,6 +134,7 @@
 | Link                                   | Github                                                                                                  |  Twitter|
 |-------------------------------------------|----------------------------------------------------------------|------------------------------------------------------|
 |:heartpulse: [Netlas](https://app.netlas.io/) :heartpulse: | https://github.com/netlas-io | https://twitter.com/Netlas_io |
+| [Odin](https://search.odin.io/) | https://github.com/cybledev | https://x.com/OdinThreatIntel |
 | [Censys](https://search.censys.io/) | https://github.com/censys | https://twitter.com/censysio |
 | [ZoomEye](https://www.zoomeye.org/) | | https://twitter.com/zoomeye_team |
 | [Onyphe](https://www.onyphe.io/)  | https://github.com/onyphe | https://twitter.com/onyphe |
@@ -160,7 +161,7 @@
 
 
 
-  
+
 ## Books
 
 * [Complete Guide to Shodan. Collect. Analyze. Visualize. Make Internet Intelligence Work for You. John Matherly. 2016 ](https://ia800705.us.archive.org/17/items/shodan-book-extras/shodan/shodan.pdf)
@@ -314,7 +315,7 @@
 
 ## Network/port Scanners
 
-* [Smap (Shodan)](https://github.com/s0md3v/Smap) 
+* [Smap (Shodan)](https://github.com/s0md3v/Smap)
 * [Shodan HQ NSE](https://github.com/glennzw/shodan-hq-nse)
 * [SSH Key Scanner (Shodan)](https://github.com/0x27/ssh_keyscanner)
 * [NetScreen Shodan Scanner](https://github.com/juliocesarfort/netscreen-shodan-scanner)
@@ -396,7 +397,7 @@
 
 
 
-## Geo Search Tools 
+## Geo Search Tools
 
 * [ShodanGeoScan](https://github.com/nixintel/ShodanGeoScan)
 
@@ -419,7 +420,7 @@
 * [Shodan Raspi](https://github.com/FoxTheAlmighty/shodan_raspi)
 * [Miner Hack](https://github.com/greatshi/miner_hack)
 
-## C2 search tools 
+## C2 search tools
 
 
 * [C2 Netlas Search Java](https://github.com/michael2to3/c2-search-netlas)
@@ -428,19 +429,19 @@
 
 
 
-## Monitoring tools 
+## Monitoring tools
 
 * [Shodmon](https://github.com/inishantgrover/Shodmon)
 * [Microsoft Sentinel Shodan Monitor](https://github.com/mikoiv/MicrosoftSentinel-ShodanMonitor)
 * [GreyWatch (GreyNoise)](https://github.com/hrbrmstr/greywatch)
 
 
-## URL fingerprinting tools 
+## URL fingerprinting tools
 
 * [Shimon](https://github.com/ninoseki/shimon)
 
 
-## VNC Screenshots Automation 
+## VNC Screenshots Automation
 
 * [Shodan Screenshot Automator VNC](https://github.com/swlacy/ShodanScreenshotAutomatorVNC)
 * [Shodan Slideshow](https://github.com/GitMirar/shodan-slideshow)
@@ -541,6 +542,7 @@
 * [Shodan Seeker](https://github.com/laincode/shodan-seeker)
 * [Shogun](https://github.com/NullArray/Shogun)
 * [Censys Python](https://github.com/censys/censys-python)
+* [Odin](https://github.com/cybledev/odin-sdk-python)
 * [ZoomEye Python](https://github.com/knownsec/ZoomEye-python)
 * [PyOnyphe](https://github.com/n4xh4ck5/pyonyphe)
 * [AIOOnyphe](https://github.com/koromodako/aionyphe)
@@ -591,6 +593,7 @@
 * [Netlas Go Library](https://github.com/mmpx12/netlas-go)
 * [Go Shodan](https://github.com/ns3777k/go-shodan)
 * [Shodan Go Client](https://github.com/shadowscatcher/shodan)
+* [Odin SDK](https://github.com/cybledev/odin-sdk-go)
 * [Shomon (Shodan Monitoring integration for TheHive)](https://github.com/KaanSK/shomon)
 * [Shodanidb (Fetch data (open ports, CVEs, CPEs, ...) from shodan internetDB API)](https://github.com/s4hm4d/shodanidb)
 * [Xray (Shodan)](https://github.com/evilsocket/xray)
@@ -632,6 +635,7 @@
 * [Easy Netlas](https://github.com/I2rys/easy-netlas)
 * [Shodan Client](https://github.com/jesusprubio/shodan-client)
 * [Shodan.js](https://github.com/picatz/shodan.js)
+* [Odin SDK](https://github.com/cybledev/odin-sdk-js)
 
 
 ## PowerShell Search Automation Tools
